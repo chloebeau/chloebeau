@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @chloebeau
+- 👀 I’m interested in a career in backend development and have been honing my relevant skills for about 5 years!
+- 🌱 I’m currently learning Meta's Backend Developer certificate on coursera, along with some skills related to AWS. After mastering Python/Django I want to take a Ruby on Rails course :) 
+- 📫 How to reach me ... you can follow me on Twitter which is in my profile information, or connect with me on LinkedIn https://www.linkedin.com/in/chloebeaudreault/

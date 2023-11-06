@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @chloebeau
-- 👀 I’m interested in a career in backend development and have been honing my relevant skills for about 5 years!
+- 👀 I’m interested in a career where I can leverage my knowledge of Python and/or AWS and have been honing my relevant skills for about 5 years!
 - 🌱 I’m currently learning TypeScript, mastering Python, and branching out from AWS into GCP and Azure 
 - 📫 How to reach me ... you can follow me on Twitter which is in my profile information, or connect with me on LinkedIn https://www.linkedin.com/in/chloebeaudreault/

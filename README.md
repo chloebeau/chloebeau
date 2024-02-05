@@ -1,9 +1,18 @@
 Hi! I'm Chloe. :)
+Thanks for stopping by.
 
-I work at a cloud MSP called Sela right now and I'm doing work with "big 3" cloud consumers, and I personally specialize in AWS. I'm certified by AWS as a Cloud Practitioner and containerized apps, working on Solutions Architect, and love working with EKS! 
+I am an aspiring Engineer, certified in AWS as a Cloud Practioner, and in Containerized Applications.
 
-Outside of AWS-related work, my favorite coding language is Python. I'm certified by Meta as a Python Programmer and I'm currently learning how to do pen-testing with it along with Kali Linux. 
+Other certifications include Meta's certifications in Python programming, SQL databases, and version control with Git/GitHub.
+If you take a look around my repositories, you'll see some of the work I've done with AWS/EKS and a few of the Meta labs.
 
-Full-stack JavaScript is the last thing (for now) on my roster for mastering new technical concepts - I never get tired of learning new things and seeing them work in the real world. 
+There's also a basic website I created for a friend of mine who is an advocate for ethical adoption, which opened my eyes to how 
+code and technology can make a real-world impact, and set me on a mission to create impactful things with code for a living. 
 
-Outside of my tech bubble, almost all of my hobbies are outdoors. From a small walk to my house to a coffee shop, hikes at local forest preserves, tennis courts, running around with my dogs, going to local farmer's markets, I will take any excuse to get some sunshine and fresh air.
+You'll also see a few that are empty. As I go about this coding and technology journey, you'll see them fill up with knowledge about Rust,
+GoLang, JavaScript, and a 100 Days of Code challenge. 
+
+If I'm not coding, I'm outside with my dogs, at the farmer's market, biking, and generally enjoying some sunshine. If there's snow
+on the ground, I'll be inside writing poetry with my cat and listening to music with one of my best pals, green tea. 
+
+TLDR; AWS, EKS, SQL, Python, GoLang, JavaScript, impactful work, sunshine, animals, music. 

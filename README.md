@@ -13,6 +13,6 @@ You'll also see a few that are empty. As I go about this coding and technology j
 GoLang, JavaScript, and a 100 Days of Code challenge. 
 
 If I'm not coding, I'm outside with my dogs, at the farmer's market, biking, and generally enjoying some sunshine. If there's snow
-on the ground, I'll be inside writing poetry with my cat and listening to music with one of my best pals, green tea. 
+on the ground, I'll be inside writing poetry with my cat. 
 
 TLDR; AWS, EKS, SQL, Python, GoLang, JavaScript, impactful work, sunshine, animals, music. 
